@@ -5,8 +5,6 @@
 ![Shell](https://img.shields.io/badge/shell-scripts-yellow.svg)
 ![SQL](https://img.shields.io/badge/sql-hive%2Fstandard-red.svg)
 
-An **S25 Big Data Project**
-
 ---
 
 ## Table of Contents

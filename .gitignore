@@ -1,0 +1,7 @@
+/data
+/.idea
+/secrets
+.*
+/metastore_db
+derby.log
+!.gitignore
